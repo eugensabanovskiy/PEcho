@@ -19,6 +19,6 @@ public class ExampleTest {
 
                 .then()
                 .statusCode(200)
-                .body("data", equalTo("Wrong data"));
+                .body("data", equalTo("some data"));
     }
 }
