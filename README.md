@@ -1,45 +1,5 @@
-Thumbs.db*
-.DS_Store
-HELP.md
-.gradle
-build/
+# Домашнее задание к занятию «1.2. Тестирование API, CI»
 
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
+## Задача №3: Postman Echo
 
-### IntelliJ IDEA ###
-.idea
-*.iws
-*.iml
-*.ipr
-out/
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-
-### VS Code ###
-.vscode/
-
-### Package Files ###
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-### Exclusions ###
-!gradle/wrapper/gradle-wrapper.jar
-!**/src/main/**
-!**/src/test/**
+[![Java CI with Gradle](https://github.com/eugensabanovskiy/PEcho/actions/workflows/gradle.yml/badge.svg)](https://github.com/eugensabanovskiy/PEchos/actions/workflows/gradle.yml)
